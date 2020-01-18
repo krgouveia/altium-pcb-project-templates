@@ -1,0 +1,11 @@
+^Soldermask^^Dielectric^3.3^13^^^^^^^^
+1^Signal^Top^Conductive^^^35^200^2700^3.33^50.95^54.54^^
+^Core^^Dielectric^4.3^1500^^^^^^^^
+2^Plane^GND^Conductive^^^35^^^^^^^
+^Soldermask^^Dielectric^3.3^13^^^^^^^^
+um
+Diff90^200^700^1.25^95.23^90.28^
+Diff100^200^500^0.98^106.5^99.29^
+Single 50^200^2700^3.33^50.95^54.54^
+Via 1^1^2^203.2^76.2^False^PTH
+*

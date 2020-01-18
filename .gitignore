@@ -1,0 +1,8 @@
+
+*.SchDocPreview
+File_Templates/History/
+File_Templates/__Previews/
+PCB_2L_Project_Template/History/
+PCB_2L_Project_Template/__Previews/
+PCB_4L_Project_Template/History/
+PCB_4L_Project_Template/__Previews/
