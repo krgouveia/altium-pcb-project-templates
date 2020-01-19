@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for ProMini Base
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -47,12 +47,12 @@ AnnotateScope=All
 AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BMVHNHTM
+DocumentUniqueId=BITAFSDT
 
 [Document2]
 DocumentPath=_PCB_4L - Interface.SchDoc
@@ -105,21 +105,30 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Parameter1]
-Name=
-Value=
+[Document5]
+DocumentPath=_PCB_4L - BOM.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[Parameter2]
+[Parameter1]
 Name=ProjectRevision
 Value=1.0
 
-[Parameter3]
+[Parameter2]
 Name=ProductCode
 Value=xxxxxxxxx
-
-[Parameter4]
-Name=
-Value=
 
 [Configuration1]
 Name=Sources
@@ -132,7 +141,7 @@ ContentTypeGUID=
 ConfigurationType=
 
 [Generic_EDE]
-OutputDir=Project Outputs for ProMini Base
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1181,7 +1190,7 @@ Type30=1
 Type31=1
 Type32=1
 Type33=1
-Type34=1
+Type34=0
 Type35=1
 Type36=1
 Type37=1
@@ -1260,7 +1269,7 @@ Type109=1
 Type110=1
 Type111=1
 Type112=1
-Type113=1
+Type113=0
 Type114=1
 Type115=1
 Type116=1
